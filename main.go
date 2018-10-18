@@ -4,9 +4,9 @@ import (
 	"net/http"
 
 	"github.com/sirupsen/logrus"
-	"github.com/wotmshuaisi/example/homepage"
-	"github.com/wotmshuaisi/example/server"
-	"github.com/wotmshuaisi/example/utils"
+	"github.com/wotmshuaisi/gopher2018microserivceexample/homepage"
+	"github.com/wotmshuaisi/gopher2018microserivceexample/server"
+	"github.com/wotmshuaisi/gopher2018microserivceexample/utils"
 )
 
 var (
